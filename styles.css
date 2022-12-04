@@ -70,6 +70,7 @@ form {
     flex-direction: column;
     align-items: center;
     gap: 45px;
+    margin-block-start: 2em;
 }
 
 
