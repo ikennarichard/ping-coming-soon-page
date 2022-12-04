@@ -44,14 +44,13 @@ Well, i had the chance to practice the css filter, its easy to use it to apply s
  .icons span:hover .icons_ {
     filter: brightness(0) invert(1);
     cursor: pointer;
-    
  }
 ```
 
 
 ### Continued development
 
-This project helped to understand the importance of regex, ive intentionally avoided it, havent really take it serious. Regex is extrememly powerful and help minimze a lot of stress.  
+This project helped to understand the importance of regex, ive intentionally avoided it, havent really take it serious. Regex is extremely powerful and help minimze a lot of stress.  
 
 ### Useful resources
 
@@ -60,7 +59,7 @@ This project helped to understand the importance of regex, ive intentionally avo
 ## Author
 
 - Website - [ikennarichard](https://github.com/ikennarichard)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ikennarichard)
+- Frontend Mentor - [@ikennarichard](https://www.frontendmentor.io/profile/ikennarichard)
 
 ## Acknowledgments
 
