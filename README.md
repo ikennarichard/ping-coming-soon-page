@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- [GitHub](https://github.com/ikennarichard/ping-coming-soon-page)
-- [Live link](https://your-live-site-url.com)
+- [Git-Hub](https://github.com/ikennarichard/ping-coming-soon-page)
+- [Live site](https://ikennarichard.github.io/ping-coming-soon-page/)
 
 ## My process
 
