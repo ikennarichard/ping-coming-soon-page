@@ -10,10 +10,10 @@ const regx = /^([a-zA-Z0-9\._]+)@([a-zA-Z0-9])+.([a-z]+).([a-z]+)?$/;
 form.addEventListener('submit', validate);
 
 
+//form police 👮🏽‍♂️
 function validate(e) {
     
     let input = document.getElementById('user-email').value;
-    // let inputElement = document.getElementById('user-email');
 
     if (input == '') {
         e.preventDefault();
